@@ -7,7 +7,8 @@ VERNON GAYLE vernon.gayle@ed.ac.uk @profbigvern
 
 Published in EUROPEAN SOCIOLOGICAL REVIEW
 
-****Abstract:
+****Abstract
+
 In the UK new sources of administrative social science data are unfolding 
 rapidly but the quality of these new forms of data for sociological research 
 is yet to be established. We investigate the quality and consistency of the 
@@ -31,6 +32,7 @@ Millennium Cohort Study Birth Registration and Maternity Hospital Episode Datase
 British Household Panel Survey: Waves 1-18 (1991-2009) SN5152 (Downloaded 30/03/2016)
 
 ****Acknowledgement
+
 This work was supported by the Economic and Social Research Council [Grant Number: ES/N011783/1]. 
 
 We are grateful to the participants of the Millennium Cohort Study and the British Household Panel Study. We thank the Centre for Longitudinal Studies, UCL Institute of Education, and the Institute of Social and Economic Research, University of Essex for the use of these data. We also acknowledge the UK Data Archive and Economic and Social Data Service for making these data available to us. These organisations bear no responsibility for the analysis or interpretation of these data.
