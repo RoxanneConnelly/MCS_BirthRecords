@@ -1,6 +1,8 @@
 **An investigation of the consistency of parental occupational information in UK birth records and a national social survey**
 
 ROXANNE CONNELLY Roxanne.Connelly@warwick.ac.uk @ConnellyRoxanne
+
+
 VERNON GAYLE vernon.gayle@ed.ac.uk @profbigvern
 
 Published in EUROPEAN SOCIOLOGICAL REVIEW
