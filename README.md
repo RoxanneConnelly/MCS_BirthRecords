@@ -6,6 +6,7 @@ ROXANNE CONNELLY R.Connelly@warwick.ac.uk @ConnellyRoxanne
 VERNON GAYLE vernon.gayle@ed.ac.uk @profbigvern
 
 Published in EUROPEAN SOCIOLOGICAL REVIEW
+https://academic.oup.com/esr/article/doi/10.1093/esr/jcw060/2957093/An-Investigation-of-the-Consistency-of-Parental
 
 ****Abstract
 
